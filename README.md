@@ -1,3 +1,5 @@
+<img src="./assets/images/banner.png">
+
 # BC22-Extra-Credit
 
 ## 🌏 Table of Contents:
